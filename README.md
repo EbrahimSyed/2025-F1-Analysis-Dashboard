@@ -39,7 +39,7 @@ These points accumulate across the season, and at the end of the 24 races, the d
 
 ## Technical Stack
 - **Power BI:** Data modeling and visuals.
-- **Excel:** Data source and relational storage.
+- **Excel:** Data source and relational storage. Created by me, includes 5 tables with information found on the F1 website, used to form the data that is displayed.
 - **DAX:** Engineered custom measures to colour-code, calculate accurate driver ages, create disappearing titles, and find averages.
 
 ## Dashboard 
